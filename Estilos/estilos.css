@@ -4,4 +4,27 @@ tbody {color:blue;}
 
 
 table, th, td {
-  border: 1px solid black;}
+border: 1px solid black;}
+
+*{margin:0; padding: 0;}
+
+#ventana{
+	width: 400px;
+	background-color: #181616;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 8px;
+	color: #A59191;
+	box-shadow: 7px 13px 37px #000;
+
+}
+.campos{
+	width: 100%;
+	background-color: #ffffff;
+	margin-bottom: 16px;
+	border: 1px solid; color: #ffffff;
+	font-size: 20px;
+	color: #080808;
+
+}
